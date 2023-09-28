@@ -1,10 +1,10 @@
 <scheme name="AplusKminus" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-07-04T15:54:36</property>
+    <property name="created">2023-09-28T11:45:40</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2023.1.3.0.0</property>
-    <property name="modified">2023-07-04T15:54:42</property>
+    <property name="ideVersion">2023.1.5.0.0</property>
+    <property name="modified">2023-09-28T11:45:49</property>
     <property name="originalScheme">AplusKminus</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -16,7 +16,7 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="232528" />
-    <option name="SELECTION_BACKGROUND" value="4476" />
+    <option name="SELECTION_BACKGROUND" value="e5007" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -394,7 +394,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="232528" />
+        <option name="FOREGROUND" value="282a2d" />
         <option name="BACKGROUND" value="ff724a" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
